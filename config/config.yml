@@ -1,0 +1,5 @@
+port: 9001
+
+entity_manager:
+  driver: 'sqlite://'
+  database: 'database.db'
